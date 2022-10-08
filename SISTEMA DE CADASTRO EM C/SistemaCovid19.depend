@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1637293140 source:c:\users\lg\desktop\pim iv\sistemacovid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1637718440 source:d:\unip ads\sistemacovid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1637460974 source:i:\unip ads\sistemacovid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
